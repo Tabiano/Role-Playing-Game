@@ -24,8 +24,10 @@ body {
   #controls,
   #stats {
     border: 1px solid #0a0a23;
-    padding: 5px;
-    color: #0a0a23;
+    padding: 6px;
+    color: black;
+    font-size: large;
+    background-color: #FAF9F6;
   }
   
   #monsterStats {
@@ -78,4 +80,13 @@ a:link {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
+  }
+  #xpText{
+    color: #0000ff;
+  }
+  #healthText{
+    color: #00ff00;
+  }
+  #goldText{
+    color: #ffd900;
   }
